@@ -30,31 +30,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B3RAkMa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
 Sev-A (1 hour, 24/7) [entire mobile/onine banking system is down] -> SysAdmins
+  - Work the ticket settings
+    - Changed priority 
+    - Changed department
+    - Updated to appropriate SLA
+    - Assigned to an agent
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DSE2nuO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Sev-B (8 hours, 247) [accounting department needs adobe upgrade, broken]
+- Correspond with all parties involved
+  - Note changes and updates to maintain SLA
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LTFasaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
-Sev-B/C (2 hours, business hours) [CFO's laptop seems a bit slow]
+- Confirm resolution
+  - Create a response stating resolultion
+  - Change ticket status to resolved
 
 </p>
 <br />
