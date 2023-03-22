@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/B3RAkMa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rK00RJY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -40,7 +40,7 @@ Sev-A (1 hour, 24/7) [entire mobile/onine banking system is down] -> SysAdmins
 <br />
 
 <p>
-<img src="https://i.imgur.com/DSE2nuO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tS2bxUx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -51,7 +51,7 @@ Sev-A (1 hour, 24/7) [entire mobile/onine banking system is down] -> SysAdmins
 <br />
 
 <p>
-<img src="https://i.imgur.com/LTFasaZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CsqQ0cR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
